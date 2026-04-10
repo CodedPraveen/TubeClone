@@ -1,0 +1,71 @@
+ border-bottom: 1px solid bg-[#ffffff33]
+
+    <div className="sticky top-0 z-10 bg-white dark:bg-[#000000] py-3 px-4">
+                <div className="flex items-center overflow-x-auto no-scrollbar gap-3 whitespace-nowrap">
+
+                    <button className="bg-black dark:bg-white text-white dark:text-black px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        All
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        {"<5 min"}
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Web Development
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Live
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Music
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Gaming
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        JavaScript
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Recently uploaded
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Comic books
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Gaming computers
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Mixes
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        security hackers
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        comedy
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Motivation
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Culture
+                    </button>
+
+                    <button className="bg-gray-100 hover:bg-gray-200 dark:bg-[#272727] dark:hover:bg-[#3f3f3f] dark:text-white px-3 py-1.5 rounded-lg text-sm font-medium transition-colors">
+                        Peace
+                    </button>
+
+                </div>
+            </div>

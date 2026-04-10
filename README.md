@@ -1,4 +1,4 @@
-# Deploy Link (Tube Clone)[https://tube-clone-codedpraveen.vercel.app/]
+# Deploy Link [Tube Clon](https://tube-clone-codedpraveen.vercel.app/)
 ## Getting Started
 
 First, run the development server:
